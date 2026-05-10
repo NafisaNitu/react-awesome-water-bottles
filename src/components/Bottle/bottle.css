@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid salmon;
+    border-radius: 20px;
+    padding: 20px;
+}
+.bottle img{
+    width: 320px;
+    border-radius: 20px;
+}
+.buy-now {
+    padding: 6px 24px;
+    background-color: rgb(251, 136, 5);
+    border: none;
+    border-radius: 4px;
+    color: white;
+    margin-top: 8px;
+}
